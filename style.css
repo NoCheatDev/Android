@@ -6,8 +6,8 @@
 }
 
 * {
-    margin: 0px;
-    padding: 0px;
+    margin: auto;
+    padding: auto;
 }
 
 body {
@@ -84,8 +84,6 @@ iframe {
 main {
     background-color: white;
     margin: auto;
-    margin-right: auto;
-    margin-left: auto;
     padding: 20px;
     border-radius: 0px 0px 10px 10px;
     box-shadow: 3px 4px 16px 0px #18492d;
