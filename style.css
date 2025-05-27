@@ -13,6 +13,7 @@
 body {
     margin: auto;
     background-color: #80DBA8;
+    margin: auto;
 }
 
 header {
@@ -89,7 +90,7 @@ main {
     box-shadow: 3px 4px 16px 0px #18492d;
 
     
-    min-width: 280px;
+    min-width: 250px;
     max-width: 800px;
 }
 
